@@ -1,2 +1,5 @@
-name: My Site
-theme: minima
+name: My First Site
+theme: jekyll-theme-minimal
+# Theme options: minima
+title: Stand-in Title
+description: Need description here
